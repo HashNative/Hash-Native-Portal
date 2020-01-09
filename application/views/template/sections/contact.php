@@ -59,6 +59,19 @@
                 <!--Grid row-->
                 <div class="row">
 
+                <!--Grid row-->
+                <!-- <div class="row">
+                    <div class="col-md-12 input-effect">
+                        <div class="md-form mb-0">
+                             <input  type="text" id="subject" name="subject" placeholder="subject">
+                            <label>Subject</label>
+                            <span class="focus-border"></span>
+                        </div>
+                    </div>
+                </div> -->
+                <!--Grid row-->
+
+
                     <!--Grid column-->
                     <div class="col-md-12 input-effect">
 

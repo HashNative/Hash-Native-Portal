@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'namslk.ipagemysql.com',
-	'username' => 'mertics',
-	'password' => 'm3rt1c5',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'mertics_software_engineering',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

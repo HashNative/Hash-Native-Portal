@@ -29,7 +29,7 @@
           <h6 class="text-uppercase mb-4 font-weight-bold">Our Products</h6>
                       <p><a href="#!">API Management System</a></p>
                       <p><a href="#!">Hash CMS</a></p>
-                      <p><a target="_blank" rel="noopener noreferrer" href="distribution-system">Distribution Manager </a><span class="badge badge-primary">New</span></p>
+                      <p><a href="#!">Distribution Manager </a><span class="badge badge-primary">New</span></p>
                       <p><a href="#!">Hash Payment Gateway</a></p>
         </div>
 
@@ -37,12 +37,15 @@
 
          <div class="col-sm-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
-                      <p><i class="fa fa-home mr-3"></i> No.77 – 2/1, Gajaba
-Place, off Robert Gunawardena Mawatha, Kirulapone, Colombo - 06</p>
+                      <p><i class="fa fa-map-marker mr-3"></i> No.14 schofield place, Colombo - 03</p>
                       <p><i class="fa fa-envelope mr-3"></i> hello@hashnative.com</p>
-                      <p><i class="fa fa-phone mr-3"></i> + 94 777 140 803</p>
+                      <p><i class="fa fa-phone mr-3"> <a href="tel:+ 94 777 140 803"> + 94 777 140 803</a></i></p>
+                      <p><i<a href=" https://www.facebook.com/hashnative/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a> &nbsp 
+                      <a href="https://www.linkedin.com/company/hash-native" target="_blank" class="linkedin"><i class="fa fa-linkedin"></i></a></i></p>
                       
-            
+
+                      
+                    
         </div>
         
       </div>

@@ -5,7 +5,7 @@ class Site extends CI_Controller {
 
 	public  function __construct(){
 		parent::__construct();
-		//$this->load->database();
+		$this->load->database();
 		$this->load->library('session');
 
 	}
@@ -227,26 +227,26 @@ class Site extends CI_Controller {
 		$this->load->view('template/sections/company/about');
 		$this->load->view('template/sections/company/vision-mission');
 		$this->load->view('template/sections/company/core-values');
-		
+		$this->load->view('template/sections/company/our-culture');
 		
 
 		$this->load->view('template/footer');
 	}
 
 
-	public function culture()
-	{		
-		$data['title']='Our Culture | Business Intelligence software company in Sri Lanka';
-		$data['heading']='It’s the quality that speaks; and the people that matter.';
-		$data['page']='About>>Culture';
-		$data['background']=base_url('assets/img/banner/contact-banner.jpg');		
-		$this->load->view('template/header',$data);
-		$this->load->view('template/navigation');
-		$this->load->view('template/sections/pagetitle');
-		$this->load->view('template/sections/our-culture');
+	// public function culture()
+	// {		
+	// 	$data['title']='Our Culture | Business Intelligence software company in Sri Lanka';
+	// 	$data['heading']='It’s the quality that speaks; and the people that matter.';
+	// 	$data['page']='About>>Culture';
+	// 	$data['background']=base_url('assets/img/banner/contact-banner.jpg');		
+	// 	$this->load->view('template/header',$data);
+	// 	$this->load->view('template/navigation');
+	// 	$this->load->view('template/sections/pagetitle');
+	// 	$this->load->view('template/sections/our-culture');
 		
-		$this->load->view('template/footer');
-	}
+	// 	$this->load->view('template/footer');
+	// }
 
 
 	public function technologies()

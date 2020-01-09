@@ -44,7 +44,7 @@
 
                 </div>
                 <!--Grid row-->
-
+                    
                 <!--Grid row-->
                 <div class="row">
                     <div class="col-md-12 input-effect">
@@ -55,6 +55,16 @@
                         </div>
                     </div>
                 </div>
+                <!--Grid row-->
+
+                <!--Grid row-->
+                <div class="col-md-6 input-effect">
+                        <div class="md-form mb-0">
+                            <input class="effect-17" type="text" id="name" name="name" placeholder="Subject" required>
+                            <label>subject</label>
+                            <span class="focus-border"></span>
+                        </div>
+                    </div>
                 <!--Grid row-->
 
                 <!--Grid row-->

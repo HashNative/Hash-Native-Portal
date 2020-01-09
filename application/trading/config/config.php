@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = "http://trading.mertics.com/";  //http://mertics.com/
+$config['base_url'] = "http://localhost/Hash-Native-Portal";  //http://mertics.com/
 //$config['base_url'] = preg_replace('@/$@', '', dirname($_SERVER['SCRIPT_NAME'])).'/';
 $config['main_base_url'] = 'http://mertics.com/';
 /*

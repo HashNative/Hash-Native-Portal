@@ -24,7 +24,7 @@
 
 
 function googleMap() {
-  var myCenter = new google.maps.LatLng(6.874488, 79.879081);
+  var myCenter = new google.maps.LatLng(6.8981414,79.8530298);
   var mapCanvas = document.getElementById("map");
   var mapOptions = {center: myCenter, zoom: 12};
   var map = new google.maps.Map(mapCanvas, mapOptions);
